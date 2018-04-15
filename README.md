@@ -18,11 +18,11 @@ I grouped the data of each year in a single file, which mean i created four file
 However the files must respect the structure bellow: 
 
 
-| Visitor/Neutral  | Home/Neutral | Date | Start (ET)|PTS(Visitor)|PTS(Home) |Attend.|
-| ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
-Houston Rockets|Los Angeles Lakers|Tue Oct 28 2014|10:30 pm|108|90|18997|
-Orlando Magic|New Orleans Pelicans|Tue Oct 28 2014|8:00 pm|84|101|17097|
-Dallas Mavericks|San Antonio Spurs|Tue Oct 28 2014|8:00 pm|100|101|19615|
+| Visitor/Neutral  | Home/Neutral | Date | Start (ET)|PTS(Visitor)|PTS(Home) |
+| ------------- | ------------- | ------------- |------------- | ------------- | ------------- | 
+Houston Rockets|Los Angeles Lakers|Tue Oct 28 2014|10:30 pm|108|90|
+Orlando Magic|New Orleans Pelicans|Tue Oct 28 2014|8:00 pm|84|101|
+Dallas Mavericks|San Antonio Spurs|Tue Oct 28 2014|8:00 pm|100|101|
 
 ## Features Extraction
 As known, each machine learning model need features to be represented as numbers to make it possible to predict the values needed. (PTS Home and PTS Visitor)
