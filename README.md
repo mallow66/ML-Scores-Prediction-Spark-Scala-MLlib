@@ -74,7 +74,7 @@ we can give 2 for the visitors , and 1 for Home teams:
 
 As known the NBA league contains **30 teams**, therefore **30 teams columns will be added**
 
-At the end of the preprocessing part of this project we'll have data represented as fallow: 
+At the end of the preprocessing part of this project we'll have data represented as follow: 
 
 
 
