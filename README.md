@@ -1,5 +1,6 @@
 
 # Machine learning Score prediction for NBA games
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 In this repository, I created a machine learning system to predicte Nba games results based on the historical data taken from
 [Basketball Reference](https://www.basketball-reference.com)
