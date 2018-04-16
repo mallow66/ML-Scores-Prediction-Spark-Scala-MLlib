@@ -76,10 +76,14 @@ As known the NBA league contains **30 teams**, therefore **30 teams columns will
 
 At the end of the preprocessing part of this project we'll have data represented as fallow: 
 
-| Team A  | Team B | Team C|...| PTS (Visitor)|PTS(Home) |
-| ------------- | ------------- | ------------- |------------- |------------- |------------- |
-|2 |1 | 0 |...| 70 | 83
-|0 | 2 | 1 |...| 90| 50
+
+
+
+| Team A  | Team B | Team C|...| Day of week|Month |Day of Month	| Year|	Start (ET) |PTS (Visitor)|PTS(Home) |Pr(Visitor)|Pr(Home)
+| ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
+|2 |1 | 0 |...|3|7 |23 | 2 |8.50 | 90 |78| 1 | 0
+|0 |2 | 1 |...|4|7 |24 | 2 |10.00 | 80 |102| 0 | 1
+|... |...|...|...|... |...|...|...|... |...|...|...|...|
 
 ### Requierements
 You'll need to **SBT** project manager, Follow the instructions  [here](https://www.scala-sbt.org/1.0/docs/Setup.html)
