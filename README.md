@@ -1,6 +1,6 @@
 
 # Machine learning Score prediction for NBA games
-![alt text](http://www.hardwoodandhollywood.com/wp-content/uploads/2016/10/NBA-logo.png)
+
 
 In this repository, I created a machine learning system to predicte Nba games results based on the historical data taken from
 [Basketball Reference](https://www.basketball-reference.com)
