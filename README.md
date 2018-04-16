@@ -66,12 +66,20 @@ Note !
 we can change the one values to other values that differs to Zero
 so for example if we want to code the idea of **Home teams** and **Visitor Teams**
 we can give 2 for the visitors , and 1 for Home teams: 
+
 | Team A  | Team B | Team C| PTS (Visitor)|PTS(Home) |
 | ------------- | ------------- | ------------- |------------- |------------- |
 |2 |1 | 0 | 70 | 83
 |0 | 2 | 1 | 90|50
 
 As known the NBA league contains **30 teams**, therefore **30 teams columns will be added**
+
+At the end of the preprocessing part of this project we'll have data represented as fallow: 
+
+| Team A  | Team B | Team C|...| PTS (Visitor)|PTS(Home) |
+| ------------- | ------------- | ------------- |------------- |------------- |------------- |
+|2 |1 | 0 |...| 70 | 83
+|0 | 2 | 1 |...| 90| 50
 
 ### Requierements
 You'll need to **SBT** project manager, Follow the instructions  [here](https://www.scala-sbt.org/1.0/docs/Setup.html)
